@@ -1,0 +1,22 @@
+[INFO ] 06-22-2019 12:39:35 pl.edu.mimuw.kd209238.searcher.JLineExample main - Warming up...
+[INFO ] 06-22-2019 12:43:27 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_CREATE: C:\Users\lucas\OneDrive\Pulpit\kupa\Nowy dokument tekstowy.txt
+[INFO ] 06-22-2019 12:44:16 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_CREATE: C:\Users\lucas\OneDrive\Pulpit\kupa\gowno
+[INFO ] 06-22-2019 12:44:16 pl.edu.mimuw.kd209238.indekser.WatchDir register - register: C:\Users\lucas\OneDrive\Pulpit\kupa\gowno
+[INFO ] 06-22-2019 12:44:16 pl.edu.mimuw.kd209238.indekser.WatchDir register - register: C:\Users\lucas\OneDrive\Pulpit\kupa\gowno\Nowy folder
+[INFO ] 06-22-2019 12:44:16 pl.edu.mimuw.kd209238.indekser.WatchDir register - register: C:\Users\lucas\OneDrive\Pulpit\kupa\gowno\Nowy folder\Nowy folder
+[INFO ] 06-22-2019 12:44:16 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_MODIFY: C:\Users\lucas\OneDrive\Pulpit\kupa\gowno\Nowy folder
+[INFO ] 06-22-2019 12:44:16 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_MODIFY: C:\Users\lucas\OneDrive\Pulpit\kupa\gowno
+[INFO ] 06-22-2019 12:44:20 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_MODIFY: C:\Users\lucas\OneDrive\Pulpit\kupa\gowno
+[INFO ] 06-22-2019 12:49:31 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_CREATE: C:\Users\lucas\OneDrive\Pulpit\kupa\urban
+[INFO ] 06-22-2019 12:49:31 pl.edu.mimuw.kd209238.indekser.WatchDir register - register: C:\Users\lucas\OneDrive\Pulpit\kupa\urban
+[INFO ] 06-22-2019 12:49:34 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_MODIFY: C:\Users\lucas\OneDrive\Pulpit\kupa\urban
+[INFO ] 06-22-2019 12:51:02 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_DELETE: C:\Users\lucas\OneDrive\Pulpit\kupa\urban
+[INFO ] 06-22-2019 12:51:02 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_MODIFY: C:\Users\lucas\OneDrive\Pulpit\kupa\urban\wyniki.pdf
+[INFO ] 06-22-2019 12:53:26 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_MODIFY: C:\Users\lucas\OneDrive\Pulpit\kupa\gowno
+[INFO ] 06-22-2019 12:53:28 pl.edu.mimuw.kd209238.indekser.WatchDir processEvents - ENTRY_DELETE: C:\Users\lucas\OneDrive\Pulpit\kupa\Nowy folder
+[WARN ] 06-22-2019 16:28:50 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-22-2019 16:35:39 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-22-2019 16:47:44 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-22-2019 19:55:49 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-22-2019 19:56:44 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
+[WARN ] 06-22-2019 20:25:50 org.apache.pdfbox.pdmodel.font.PDSimpleFont toUnicode - No Unicode mapping for contintegraldisplay (73) in font XNOVLA+LMMathExtension10-Regular
